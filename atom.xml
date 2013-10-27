@@ -4,7 +4,7 @@
   <title><![CDATA[来年鱼的世界]]></title>
   <link href="http://blog.andygo.org/atom.xml" rel="self"/>
   <link href="http://blog.andygo.org/"/>
-  <updated>2013-10-28T00:02:55+08:00</updated>
+  <updated>2013-10-28T00:17:42+08:00</updated>
   <id>http://blog.andygo.org/</id>
   <author>
     <name><![CDATA[andy]]></name>
@@ -14,19 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[rbenv是如何工作的]]></title>
-    <link href="http://blog.andygo.org/blog/2013/10/27/rbenvshi-ru-he-gong-zuo-de/"/>
-    <updated>2013-10-27T23:37:00+08:00</updated>
-    <id>http://blog.andygo.org/blog/2013/10/27/rbenvshi-ru-he-gong-zuo-de</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[markdown学习]]></title>
-    <link href="http://blog.andygo.org/blog/2013/06/08/markdownxue-xi/"/>
+    <link href="http://blog.andygo.org/2013/06/08/markdownxue-xi/"/>
     <updated>2013-06-08T22:34:00+08:00</updated>
-    <id>http://blog.andygo.org/blog/2013/06/08/markdownxue-xi</id>
+    <id>http://blog.andygo.org/2013/06/08/markdownxue-xi</id>
     <content type="html"><![CDATA[<h3>基本语法</h3>
 
 <ol>
@@ -183,9 +174,9 @@ _   底线
   
   <entry>
     <title type="html"><![CDATA[hello world]]></title>
-    <link href="http://blog.andygo.org/blog/2013/06/05/hello-world/"/>
+    <link href="http://blog.andygo.org/2013/06/05/hello-world/"/>
     <updated>2013-06-05T23:03:00+08:00</updated>
-    <id>http://blog.andygo.org/blog/2013/06/05/hello-world</id>
+    <id>http://blog.andygo.org/2013/06/05/hello-world</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
   </entry>
