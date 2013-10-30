@@ -4,7 +4,7 @@
   <title><![CDATA[来年鱼的世界]]></title>
   <link href="http://blog.andygo.org/atom.xml" rel="self"/>
   <link href="http://blog.andygo.org/"/>
-  <updated>2013-10-28T00:52:17+08:00</updated>
+  <updated>2013-10-30T19:02:44+08:00</updated>
   <id>http://blog.andygo.org/</id>
   <author>
     <name><![CDATA[andy]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[一张图瞬间明白各种开源License]]></title>
+    <link href="http://blog.andygo.org/2013/10/30/yi-zhang-tu-shun-jian-ming-bai-ge-zhong-kai-yuan-license/"/>
+    <updated>2013-10-30T18:29:00+08:00</updated>
+    <id>http://blog.andygo.org/2013/10/30/yi-zhang-tu-shun-jian-ming-bai-ge-zhong-kai-yuan-license</id>
+    <content type="html"><![CDATA[<p>那么多的开源License，其说明文档晦涩难懂， 但应该都差别不大。下面这张图可以帮助快速区别各种开源License最重要的不同。</p>
+
+<p>图片来源： <a href="http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html">阮一峰的博客</a></p>
+
+<p><img src="http://blog.andygo.org/images/licence.jpg"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[markdown学习]]></title>
